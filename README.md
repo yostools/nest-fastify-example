@@ -1,10 +1,10 @@
-# uniTools Server
+# Example Server
 
-This is the server for uniTools.
+Example server for NestJS and fastify.
 
 ## Description
 
-The uniTools server is based on the [Nest](https://github.com/nestjs/nest) framework.
+The server is based on the [NestJS](https://github.com/nestjs/nest) framework and [fastify](https://www.fastify.io/).
 
 ## Installation
 
